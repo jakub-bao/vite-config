@@ -1,0 +1,17 @@
+{
+  "name": "@jakubcodes/vite-config",
+  "version": "0.0.1",
+  "description": "Simplify vite.config.ts",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakub-bao/vite-config.git"
+  },
+  "private": false,
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "@vitejs/plugin-react": "^4.3.0",
+    "@types/node": "^20.12.12"
+  }
+}
